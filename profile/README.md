@@ -20,3 +20,6 @@ Try it on a real CVE: [interactive demo](https://tegesszmegesproxy.github.io/lan
 | `dashboard` | Policy review and admin UI |
 | `landing` | Marketing site and demo |
 | `docs` | Documentation |
+
+## Usage of LLM's
+During the development process we used a bunch of AI tools to make our work faster and more time efficient.
